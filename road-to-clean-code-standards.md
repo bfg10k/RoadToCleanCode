@@ -12,7 +12,7 @@ Alguna de las razones a **muy grosso modo** que han llevado a la creación de es
 
 **Indice**:
 
-1. [Instalando PHP Code Sniffer](road-to-clean-code-php-code-sniffer)
-2. [Instalando PHP Mess Detector](road-to-clean-code-php-mess-detector)
-3. [Configurando PhpStorm](road-to-clean-code-php-storm-configuration)
-4. [FOS/PHP Coding Standards Fixer](road-to-clean-code-php-coding-standards-fixer)
+1. [Instalando PHP Code Sniffer](road-to-clean-code-php-code-sniffer.md)
+2. [Instalando PHP Mess Detector](road-to-clean-code-php-mess-detector.md)
+3. [Configurando PhpStorm](road-to-clean-code-php-storm-configuration.md)
+4. [FOS/PHP Coding Standards Fixer](road-to-clean-code-php-coding-standards-fixer.md)
